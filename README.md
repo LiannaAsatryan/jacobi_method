@@ -3,16 +3,15 @@
 
 #files
  in this directory there are following files
-* input.txt __ it is the file where our matrix examples are arranged in the following order
-
-
-	        size1
-		matrix1
- 		
-		size2
-                matrix2
-	        ...
-	       
+* input.txt __ it is the file where our matrix examples are arranged in the following order:
+ size1
+  matrix1
+  
+ size2
+  matrix2
+  
+ ...
+ 
 	       
 * golden.txt __ it is the file where our correct answers are located
 * Matrix.h __ it is a header file which contains the declarations of the Matrix class methods.
