@@ -6,9 +6,12 @@
 * input.txt __ it is the file where our matrix examples are arranged in the following order:
 
  size1
+ 
   matrix1
-  
+
+
  size2
+ 
   matrix2
   
  ...
