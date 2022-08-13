@@ -7,16 +7,10 @@
 
 
 	        size1
-		_______
-               |       |
-               |matrix1|
-               |_______|
+		matrix1
  		
 		size2
-                _______
-               |       |
-               |matrix2|
-               |_______|
+                matrix2
 	        ...
 	       
 	       
@@ -38,15 +32,16 @@ in my golden and output files the precision is set as 4
 
 #to run the main program type
 
- make 
+  make
+ 
 #to clean the generated files type
 
- make clean 
+  make clean 
 
 #to run the test you type
 
- make test
+  make test
  
-to clean the generated files type
+#to clean the generated files type
 
- make clean
+  make clean
