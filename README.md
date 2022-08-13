@@ -4,6 +4,7 @@
 #files
  in this directory there are following files
 * input.txt __ it is the file where our matrix examples are arranged in the following order:
+
  size1
   matrix1
   
