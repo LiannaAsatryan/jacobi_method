@@ -29,6 +29,7 @@
 * jacobi_test.cpp __ this is file where the testing is done
 
 #description
+
 My project solves the system of linear equations using matrixes
 If the matrix is NOT STRICTLY diagonally dominant the answer is "no dominant"
 If the typed size isn't a positive integer number the answer is "wrong size, cannot continue the process"
@@ -36,11 +37,16 @@ And finally, when our system has solution the answer is written like this   "sol
 in my golden and output files the precision is set as 4
 
 #to run the main program type
+
  make 
-to clean the generated files type
+#to clean the generated files type
+
  make clean 
 
 #to run the test you type
+
  make test
-to clean the generated files type 
+ 
+to clean the generated files type
+
  make clean
